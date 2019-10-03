@@ -1,3 +1,6 @@
-Matrícula:
+Matrï¿½cula:
 Nome:
 e-mail:
+
+Telefone:
+Disciplinas que Leciona: 
