@@ -3,3 +3,6 @@ Nome: Emanoel Rosa
 
 Telefone:
 e-email:
+
+Data Nascimento:
+Sexo:
