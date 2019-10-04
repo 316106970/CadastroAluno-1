@@ -1,5 +1,7 @@
 Codigo:
 Disciplina:
 
-ProfessorDisciplina:
+Professor
+
+notas:
 
