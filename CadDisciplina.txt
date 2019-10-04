@@ -1,2 +1,5 @@
-Código:
+Codigo:
 Disciplina:
+
+ProfessorDisciplina:
+
