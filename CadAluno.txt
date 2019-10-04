@@ -5,4 +5,6 @@ Telefone:
 e-email:
 
 Data Nascimento:
-Sexo:
+Sexo: 
+CURSO:
+RA:
